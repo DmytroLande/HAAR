@@ -82,40 +82,28 @@ Text Authorship ≠ Reasoning Ownership ≠ Scientific Responsibility
 
 ------------------------------------------------------------------------
 
+
 ## HAAR v1.2 Architecture
 
-``` text
-SCIENTIFIC WORK
-      ↓
-SEMANTIC REASONING NETWORK
-      ↓
-MILESTONES
-      ↓
-HIDDEN TRANSITIONS
-      ↓
-QUESTION GENERATION
-      ↓
-QUESTION VALIDATION
-      ↓
-ANSWER-POSITION NEUTRALITY
-      ↓
-ADAPTIVE ASSESSMENT ↔ DELAYED CROSS-CHECK
-      ↓
-REASONING EVIDENCE GRAPH
-      ↓
-HAAR EVIDENCE
-      ↓
-HUMAN DECISION
-```
+The complete HAAR workflow transforms a scientific work into a structured
+reasoning-evidence profile while preserving the final decision for a human assessor.
 
-The framework preserves a strict separation of responsibilities:
+<p align="center">
+  <img src="PIC/Ris-Git-1.png" width="100%" 
+       alt="HAAR Framework v1.2 architecture">
+</p>
 
-``` text
-HAAR  → Evidence
-Human → Decision
-```
+**Figure 1. HAAR Framework v1.2 architecture — from scientific work to reasoning evidence and human decision.**
 
-------------------------------------------------------------------------
+The architecture combines Semantic Reasoning Network reconstruction,
+milestone detection, hidden-transition analysis, question generation and
+validation, Answer-Position Neutrality, adaptive assessment, Delayed
+Cross-Check, and construction of the Reasoning Evidence Graph.
+
+The fundamental separation remains:
+
+**HAAR → EVIDENCE**  
+**HUMAN → DECISION**
 
 ## Semantic Reasoning Network
 
