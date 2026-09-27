@@ -339,7 +339,32 @@ transition as contradictory.
 
 The structure and localization of evidence are more important than a raw
 count of correct answers.
+#
+## Semantic Reasoning Network
 
+HAAR transforms the submitted scientific work into a typed reasoning network
+
+\[
+G_R=(V,E,\tau_V,\tau_E,w)
+\]
+
+whose nodes represent scientific reasoning entities and whose typed edges
+represent transitions between them.
+
+<p align="center">
+  <img src="PIC/Ris-Git-2.png" width="100%"
+       alt="Semantic Reasoning Network in HAAR">
+</p>
+
+**Figure 2. Semantic Reasoning Network in HAAR — scientific reasoning represented through typed nodes, relations, alternatives, contradictions, and hidden transitions.**
+
+A typical reasoning trajectory can be represented as:
+
+`P → H → M → Eₓ → O → I → R`
+
+However, HAAR does not treat scientific reasoning as a single linear chain.
+The network may also contain alternative hypotheses, hidden methodological
+decisions, contradictory observations, limitations, and future research branches.
 ------------------------------------------------------------------------
 
 ## Evidence Profile
