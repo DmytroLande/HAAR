@@ -1,8 +1,16 @@
 # HAAR Framework v1.2
 
-**Human Academic Authorship Reasoning**
+<p align="center">
+  <img src="PIC/logo.png" width="900" alt="HAAR Framework v1.2">
+</p>
 
-**From Scientific Text to Reasoning Evidence**
+<p align="center">
+  <b>Human Academic Authorship Reasoning</b><br>
+  From Scientific Text to Reasoning Evidence
+</p>
+
+> **HAAR → EVIDENCE**  
+> **HUMAN → DECISION**
 
 > **HAAR → EVIDENCE**\
 > **HUMAN → DECISION**
